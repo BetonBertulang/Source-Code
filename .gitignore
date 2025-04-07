@@ -1,0 +1,11 @@
+# Contoh .gitignore untuk proyek Python
+
+# Folder/fIle Python cache
+__pycache__/
+*.pyc
+
+# Folder data output besar
+output/
+*.log
+
+
